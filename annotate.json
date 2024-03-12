@@ -1,0 +1,86 @@
+{
+    "1.mp4": [
+        {
+            "start_frame": "13",
+            "end_frame": "48",
+            "action_type": "click",
+            "down_coordinate": [93,8],
+            "up_coordinate": [93,8],
+            "type_word": null
+        },
+        {
+            "start_frame": "56",
+            "end_frame": "73",
+            "action_type": "click",
+            "down_coordinate": [17,15],
+            "up_coordinate": [17,15],
+            "type_word": null
+        },
+        {
+            "start_frame": "129",
+            "end_frame": "165",
+            "action_type": "type",
+            "down_coordinate": null,
+            "up_coordinate": null,
+            "type_word": "fed"
+        },
+        {
+            "start_frame": "183",
+            "end_frame": "252",
+            "action_type": "click",
+            "down_coordinate": [87,88],
+            "up_coordinate": [87,88],
+            "type_word": null
+        },
+        {
+            "start_frame": "287",
+            "end_frame": "297",
+            "action_type": "swipe",
+            "down_coordinate": [78,44],
+            "up_coordinate": [78,59],
+            "type_word": null
+        }
+    ],
+    "2.mp4": [
+        {
+            "start_frame": "28",
+            "end_frame": "41",
+            "action_type": "click",
+            "down_coordinate": [31,14],
+            "up_coordinate": [31,14],
+            "type_word": null
+        },
+        {
+            "start_frame": "64",
+            "end_frame": "80",
+            "action_type": "click",
+            "down_coordinate": [92,9],
+            "up_coordinate": [92,9],
+            "type_word": null
+        },
+        {
+            "start_frame": "97",
+            "end_frame": "115",
+            "action_type": "click",
+            "down_coordinate": [20,14],
+            "up_coordinate": [20,14],
+            "type_word": null
+        },
+        {
+            "start_frame": "129",
+            "end_frame": "156",
+            "action_type": "type",
+            "down_coordinate": null,
+            "up_coordinate": null,
+            "type_word": "bbc"
+        },
+        {
+            "start_frame": "186",
+            "end_frame": "230",
+            "action_type": "click",
+            "down_coordinate": [87,88],
+            "up_coordinate": [87,88],
+            "type_word": null
+        }
+    ]
+}
